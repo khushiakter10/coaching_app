@@ -1,52 +1,52 @@
 # 🏋️‍♀️ Coaching App - Flutter
 
-A feature-rich **Flutter fitness and coaching application** designed and developed by **Mst. Khushi Akter**.  
-This app includes screens for workout videos, calorie tracking, meal suggestions, period tracking, and user progress monitoring.
+A modern **Flutter coaching and fitness app** created and developed by **Mst. Khushi Akter**.
+
+This application helps users manage workouts, track calories, meals, menstrual cycles, and personal progress — all in one place.
+
+---
 
 ## 👩‍💻 Developer
+
 **Mst. Khushi Akter**  
 Flutter Developer
 
 ---
 
-## 📱 App Screens & Features
+## 📱 App Screens Overview
 
-| # | Screen                         | Description                                                       |
-|---|--------------------------------|-------------------------------------------------------------------|
-| 1 | **Video Screen**               | Shows workout or instructional videos.                           |
-| 2 | **Statistics Screen**         | Displays health and fitness statistics with interactive graphs.  |
-| 3 | **Calorie Screen**            | Track daily calorie intake and burned calories.                  |
-| 4 | **Omlet Screen**              | A sample meal screen (e.g., healthy breakfast like an omelet).   |
-| 5 | **Tracker Screen**            | Monitors user’s daily exercise, food, and water intake.          |
-| 6 | **Provperiod Fungerar Screen**| Tracks and explains user’s menstrual cycle and related tips.     |
-
----
-
-## 📸 Screenshots
-
-| Video Screen | Statistics Screen |
-|--------------|-------------------|
-| ![Video](https://github.com/khushiakter10/coaching_app/blob/main/Screenshots/Screenshot%202025-07-28%20084202.png?raw=true) | ![Stats](https://github.com/khushiakter10/coaching_app/blob/main/Screenshots/Screenshot%202025-07-28%20084347.png?raw=true) |
-
-| Calorie Screen | Omlet Screen |
-|----------------|--------------|
-| ![Calorie](https://github.com/khushiakter10/coaching_app/blob/main/Screenshots/Screenshot%202025-07-28%20084426.png?raw=true) | ![Omlet](https://github.com/khushiakter10/coaching_app/blob/main/Screenshots/Screenshot%202025-07-28%20084516.png?raw=true) |
-
-| Tracker Screen | Provperiod Fungerar Screen |
-|----------------|----------------------------|
-| ![Tracker](https://github.com/khushiakter10/coaching_app/blob/main/Screenshots/Screenshot%202025-07-28%20084604.png?raw=true) | ![Period](https://github.com/khushiakter10/coaching_app/blob/main/Screenshots/Screenshot%202025-07-28%20084651.png?raw=true) |
+| # | Screen                          | Description                                                       |
+|---|---------------------------------|-------------------------------------------------------------------|
+| 1 | **Video Screen**                | Displays coaching and workout videos.                            |
+| 2 | **Statistics Screen**          | Shows fitness stats with visual graphs.                          |
+| 3 | **Calorie Screen**             | Helps track daily calories in/out.                               |
+| 4 | **Omlet Screen**               | Healthy food suggestion screen.                                  |
+| 5 | **Tracker Screen**             | Tracks workout, water, and food habits.                          |
+| 6 | **Provperiod Fungerar Screen** | Tracks menstrual cycle with tips.                                |
 
 ---
 
-## 🚀 Tech Stack
+## 📸 Screenshots (Scrollable)
 
-- Flutter
-- Dart
-- Flutter ScreenUtil
-- Custom UI components
-- State Management (Provider / setState)
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 10px;">
+  <img src="https://github.com/khushiakter10/coaching_app/blob/main/Screenshots/Screenshot%202025-07-28%20084202.png?raw=true" width="200" style="margin-right:10px;" />
+  <img src="https://github.com/khushiakter10/coaching_app/blob/main/Screenshots/Screenshot%202025-07-28%20084347.png?raw=true" width="200" style="margin-right:10px;" />
+  <img src="https://github.com/khushiakter10/coaching_app/blob/main/Screenshots/Screenshot%202025-07-28%20084426.png?raw=true" width="200" style="margin-right:10px;" />
+  <img src="https://github.com/khushiakter10/coaching_app/blob/main/Screenshots/Screenshot%202025-07-28%20084516.png?raw=true" width="200" style="margin-right:10px;" />
+  <img src="https://github.com/khushiakter10/coaching_app/blob/main/Screenshots/Screenshot%202025-07-28%20084604.png?raw=true" width="200" style="margin-right:10px;" />
+  <img src="https://github.com/khushiakter10/coaching_app/blob/main/Screenshots/Screenshot%202025-07-28%20084651.png?raw=true" width="200" style="margin-right:10px;" />
+</div>
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Tech Stack
+
+- Flutter & Dart  
+- ScreenUtil for responsive UI  
+- Custom Widgets  
+- Clean architecture
+
+---
+
+## 📂 Folder Structure
 
